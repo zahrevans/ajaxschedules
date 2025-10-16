@@ -1,0 +1,51 @@
+[
+    {
+        "className": "Honors Precalculus",
+        "teacher": "Ms. Mullin",
+        "roomNumber": "E211",
+        "period": "1",
+        "subjectArea": "Math"
+    },
+    {
+        "className": "Honors NJIT IS219 Advanced Website Development WDP",
+        "teacher": "Mr. Kilgore",
+        "roomNumber": "B111",
+        "period": "2",
+        "subjectArea": "Technology"
+    },
+    {
+        "className": "BCC ENG121 The Writing Process",
+        "teacher": "Ms. Reganato",
+        "roomNumber": "E117",
+        "period": "3",
+        "subjectArea": "English"
+    },
+    {
+        "className": "Financial Literacy",
+        "teacher": "Mr. Morgan",
+        "roomNumber": "A132",
+        "period": "4",
+        "subjectArea": "Finance"
+    },
+    {
+        "className": "AP Computer Science A",
+        "teacher": "Mrs. Rehwinkel",
+        "roomNumber": "A234",
+        "period": "5",
+        "subjectArea": "Math"
+    },
+    {
+        "className": "Honors Engineering Graphics 2",
+        "teacher": "Mr. Gasior",
+        "roomNumber": "B107",
+        "period": "6",
+        "subjectArea": "Engineering"
+    },
+    {
+        "className": "Physical Ed 12",
+        "teacher": "Ms. Scollo",
+        "roomNumber": "GYM",
+        "period": "7",
+        "subjectArea": "Physical Education"
+    }
+]
